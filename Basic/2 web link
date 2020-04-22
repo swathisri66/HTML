@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML Links</h2>
+<p>links with tag.</p>
+<a href="https://www.w3schools.com">  link</a>
+<a href="https://www.w3schools.com/css/css_navbar.asp"> css link</a>
+<a href="https://www.w3schools.com/java"> Java link</a>
+
+</body>
+</html>
